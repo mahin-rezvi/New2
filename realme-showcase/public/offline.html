@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Offline - Star Tech Atlas</title>
+    <style>
+        :root {
+            --bg: #09111c;
+            --text: #f4efe6;
+            --accent: #ff7a18;
+            --muted: rgba(244, 239, 230, 0.7);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(180deg, var(--bg) 0%, #0b1524 42%, #09111a 100%);
+            color: var(--text);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            padding: 20px;
+        }
+
+        .offline-container {
+            text-align: center;
+            max-width: 600px;
+        }
+
+        .offline-icon {
+            font-size: 80px;
+            margin-bottom: 20px;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            line-height: 1.2;
+        }
+
+        .offline-message {
+            font-size: 1.1rem;
+            color: var(--muted);
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        .offline-info {
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 30px;
+            text-align: left;
+            color: var(--muted);
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
+        .offline-info strong {
+            color: var(--text);
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .offline-actions {
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        button {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 180ms ease;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--accent), #f05a28);
+            color: #fff8ef;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(255, 122, 24, 0.3);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.04);
+            color: var(--text);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.08);
+        }
+
+        .cached-info {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            font-size: 0.85rem;
+            color: var(--muted);
+        }
+
+        .cached-info strong {
+            color: var(--accent);
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 1.8rem;
+            }
+
+            .offline-icon {
+                font-size: 60px;
+            }
+
+            .offline-actions {
+                flex-direction: column;
+            }
+
+            button {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="offline-container">
+        <div class="offline-icon">📡</div>
+        <h1>You're Offline</h1>
+        
+        <div class="offline-message">
+            <p>It looks like you've lost your internet connection. Don't worry, here's what you can do:</p>
+        </div>
+
+        <div class="offline-info">
+            <strong>What you can access:</strong>
+            <ul style="margin: 10px 0; padding-left: 20px;">
+                <li>Previously visited pages (cached)</li>
+                <li>Product images you've already viewed</li>
+                <li>Search results from your last session</li>
+            </ul>
+        </div>
+
+        <div class="offline-actions">
+            <button class="btn-primary" onclick="location.reload()">Retry Connection</button>
+            <button class="btn-secondary" onclick="goHome()">Go to Homepage</button>
+        </div>
+
+        <div class="cached-info">
+            <p>💾 We cache important data automatically for offline access. Cached data will be updated when you're back online.</p>
+        </div>
+    </div>
+
+    <script>
+        function goHome() {
+            window.location.href = '/';
+        }
+
+        // Check for connection periodically
+        setInterval(() => {
+            fetch('/').then(() => {
+                // Connection restored
+                console.log('Connection restored');
+                // Optionally reload
+                // location.reload();
+            }).catch(() => {
+                // Still offline
+            });
+        }, 5000);
+    </script>
+</body>
+</html>

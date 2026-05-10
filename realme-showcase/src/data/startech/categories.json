@@ -1,0 +1,2471 @@
+{
+  "generated_at": "2026-05-09T10:08:36.279439+00:00",
+  "total_categories": 18,
+  "categories": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://www.startech.com.bd/accessories",
+      "title": "Computer Accessories Price in Bangladesh 2026 | Star Tech",
+      "headline": "Computer Accessories Price in Bangladesh",
+      "total_products": 5490,
+      "total_pages": 275,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Accessories",
+          "url": "https://www.startech.com.bd/accessories"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "Keyboard",
+          "url": "https://www.startech.com.bd/accessories/keyboards"
+        },
+        {
+          "name": "Mouse",
+          "url": "https://www.startech.com.bd/accessories/mouse"
+        },
+        {
+          "name": "Headphone",
+          "url": "https://www.startech.com.bd/accessories/headphone"
+        },
+        {
+          "name": "Bluetooth Headphone",
+          "url": "https://www.startech.com.bd/bluetooth-headphone"
+        },
+        {
+          "name": "Mouse Pad",
+          "url": "https://www.startech.com.bd/accessories/mouse-pad"
+        },
+        {
+          "name": "Wrist Rest",
+          "url": "https://www.startech.com.bd/wrist-rest"
+        },
+        {
+          "name": "Headphone Stand",
+          "url": "https://www.startech.com.bd/headphone-stand"
+        },
+        {
+          "name": "Speaker & Home Theater",
+          "url": "https://www.startech.com.bd/accessories/speaker-and-home-theater"
+        },
+        {
+          "name": "Bluetooth Speakers",
+          "url": "https://www.startech.com.bd/accessories/bluetooth-speaker"
+        },
+        {
+          "name": "Webcam",
+          "url": "https://www.startech.com.bd/accessories/webcam"
+        },
+        {
+          "name": "Soundbar",
+          "url": "https://www.startech.com.bd/soundbar"
+        },
+        {
+          "name": "Cable",
+          "url": "https://www.startech.com.bd/cable"
+        },
+        {
+          "name": "Converter",
+          "url": "https://www.startech.com.bd/converter"
+        },
+        {
+          "name": "Card Reader",
+          "url": "https://www.startech.com.bd/card-reader"
+        },
+        {
+          "name": "Hubs & Docks",
+          "url": "https://www.startech.com.bd/hub-and-dock"
+        },
+        {
+          "name": "Microphone",
+          "url": "https://www.startech.com.bd/accessories/microphone"
+        },
+        {
+          "name": "Digital Voice Recorder",
+          "url": "https://www.startech.com.bd/accessories/digital-voice-recorder"
+        },
+        {
+          "name": "Presenter",
+          "url": "https://www.startech.com.bd/presenter"
+        },
+        {
+          "name": "Memory Card",
+          "url": "https://www.startech.com.bd/memory-card"
+        },
+        {
+          "name": "Sound Card",
+          "url": "https://www.startech.com.bd/sound-card"
+        },
+        {
+          "name": "Capture Card",
+          "url": "https://www.startech.com.bd/capture-card"
+        },
+        {
+          "name": "Pen Drive",
+          "url": "https://www.startech.com.bd/pen-drive"
+        },
+        {
+          "name": "Thermal Paste",
+          "url": "https://www.startech.com.bd/thermal-paste"
+        },
+        {
+          "name": "HDD-SSD Enclosure",
+          "url": "https://www.startech.com.bd/accessories/enclosure"
+        },
+        {
+          "name": "Power Strip",
+          "url": "https://www.startech.com.bd/power-strip"
+        },
+        {
+          "name": "Bluetooth Adapter",
+          "url": "https://www.startech.com.bd/bluetooth-adapter"
+        },
+        {
+          "name": "PC Lighting & LED Strips",
+          "url": "https://www.startech.com.bd/accessories/pc-lighting-led-strips"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Appliance",
+      "slug": "appliance",
+      "url": "https://www.startech.com.bd/appliance",
+      "title": "Home Appliances Price in Bangladesh 2026 | Star Tech",
+      "headline": "Home Appliances Price in Bangladesh",
+      "total_products": 970,
+      "total_pages": 49,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Appliance",
+          "url": "https://www.startech.com.bd/appliance"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "AC",
+          "url": "https://www.startech.com.bd/air-conditioner"
+        },
+        {
+          "name": "Air Cooler",
+          "url": "https://www.startech.com.bd/air-cooler"
+        },
+        {
+          "name": "Air Curtain",
+          "url": "https://www.startech.com.bd/air-curtain"
+        },
+        {
+          "name": "Fan",
+          "url": "https://www.startech.com.bd/fan"
+        },
+        {
+          "name": "Air Fryer",
+          "url": "https://www.startech.com.bd/air-fryer"
+        },
+        {
+          "name": "Oven",
+          "url": "https://www.startech.com.bd/oven"
+        },
+        {
+          "name": "Cooker",
+          "url": "https://www.startech.com.bd/cooker"
+        },
+        {
+          "name": "Induction Cooker",
+          "url": "https://www.startech.com.bd/induction-cooker"
+        },
+        {
+          "name": "Toaster",
+          "url": "https://www.startech.com.bd/toaster"
+        },
+        {
+          "name": "Blender",
+          "url": "https://www.startech.com.bd/blender"
+        },
+        {
+          "name": "Electric Kettle",
+          "url": "https://www.startech.com.bd/electric-kettle"
+        },
+        {
+          "name": "Fridge",
+          "url": "https://www.startech.com.bd/refrigerator"
+        },
+        {
+          "name": "Washing Machine",
+          "url": "https://www.startech.com.bd/washing-machine"
+        },
+        {
+          "name": "Vacuum Cleaner",
+          "url": "https://www.startech.com.bd/vacuum-cleaner"
+        },
+        {
+          "name": "Geyser",
+          "url": "https://www.startech.com.bd/geyser-water-heater"
+        },
+        {
+          "name": "Room Heater",
+          "url": "https://www.startech.com.bd/room-heater"
+        },
+        {
+          "name": "Air Purifier",
+          "url": "https://www.startech.com.bd/air-purifier"
+        },
+        {
+          "name": "Dehumidifier",
+          "url": "https://www.startech.com.bd/dehumidifier"
+        },
+        {
+          "name": "Iron",
+          "url": "https://www.startech.com.bd/iron"
+        },
+        {
+          "name": "Sewing Machine",
+          "url": "https://www.startech.com.bd/sewing-machine"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Camera",
+      "slug": "camera",
+      "url": "https://www.startech.com.bd/camera",
+      "title": "Camera Price in Bangladesh 2026 | Star Tech",
+      "headline": "Camera Price in Bangladesh",
+      "total_products": 218,
+      "total_pages": 11,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Camera",
+          "url": "https://www.startech.com.bd/camera"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "DSLR",
+          "url": "https://www.startech.com.bd/dslr-camera"
+        },
+        {
+          "name": "Digital Camera",
+          "url": "https://www.startech.com.bd/camera/digital-camera"
+        },
+        {
+          "name": "Handycam",
+          "url": "https://www.startech.com.bd/camera/Handycam"
+        },
+        {
+          "name": "Camera Lenses",
+          "url": "https://www.startech.com.bd/camera/camera-lenses"
+        },
+        {
+          "name": "Action Camera",
+          "url": "https://www.startech.com.bd/camera/action-camera"
+        },
+        {
+          "name": "Mirrorless Camera",
+          "url": "https://www.startech.com.bd/mirrorless-camera"
+        },
+        {
+          "name": "Video Camera",
+          "url": "https://www.startech.com.bd/camera/video-camera"
+        },
+        {
+          "name": "Dash Cam",
+          "url": "https://www.startech.com.bd/dash-cam"
+        },
+        {
+          "name": "Instant Camera",
+          "url": "https://www.startech.com.bd/instant-camera"
+        },
+        {
+          "name": "Body Camera",
+          "url": "https://www.startech.com.bd/body-camera"
+        },
+        {
+          "name": "Camera Tripod",
+          "url": "https://www.startech.com.bd/camera/camera-tripod"
+        },
+        {
+          "name": "Camera Accessories",
+          "url": "https://www.startech.com.bd/camera-accessories"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Component",
+      "slug": "component",
+      "url": "https://www.startech.com.bd/component",
+      "title": "Computer Components Price in Bangladesh 2026 | Star Tech",
+      "headline": "Computer Components Price in Bangladesh",
+      "total_products": 4289,
+      "total_pages": 215,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Component",
+          "url": "https://www.startech.com.bd/component"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "Processor",
+          "url": "https://www.startech.com.bd/component/processor"
+        },
+        {
+          "name": "CPU Cooler",
+          "url": "https://www.startech.com.bd/component/CPU-Cooler"
+        },
+        {
+          "name": "Water / Liquid Cooling",
+          "url": "https://www.startech.com.bd/water-or-liquid-cooling"
+        },
+        {
+          "name": "Motherboard",
+          "url": "https://www.startech.com.bd/component/motherboard"
+        },
+        {
+          "name": "Graphics Card",
+          "url": "https://www.startech.com.bd/component/graphics-card"
+        },
+        {
+          "name": "RAM (Desktop)",
+          "url": "https://www.startech.com.bd/component/ram"
+        },
+        {
+          "name": "RAM (Laptop)",
+          "url": "https://www.startech.com.bd/component/laptop-ram"
+        },
+        {
+          "name": "Power Supply",
+          "url": "https://www.startech.com.bd/component/power-supply"
+        },
+        {
+          "name": "Hard Disk Drive",
+          "url": "https://www.startech.com.bd/component/hard-disk-drive"
+        },
+        {
+          "name": "Portable Hard Disk Drive",
+          "url": "https://www.startech.com.bd/component/portable-hard-disk-drive"
+        },
+        {
+          "name": "SSD",
+          "url": "https://www.startech.com.bd/ssd"
+        },
+        {
+          "name": "Portable SSD",
+          "url": "https://www.startech.com.bd/portable-ssd"
+        },
+        {
+          "name": "Casing",
+          "url": "https://www.startech.com.bd/component/casing"
+        },
+        {
+          "name": "Casing Cooler",
+          "url": "https://www.startech.com.bd/component/casing-cooler"
+        },
+        {
+          "name": "Optical Disk Drive",
+          "url": "https://www.startech.com.bd/component/optical-hdd"
+        },
+        {
+          "name": "Vertical Graphics Card Holder",
+          "url": "https://www.startech.com.bd/vertical-graphics-card-holder"
+        },
+        {
+          "name": "SSD Cooler",
+          "url": "https://www.startech.com.bd/ssd-cooler"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Desktop",
+      "slug": "desktops",
+      "url": "https://www.startech.com.bd/desktops",
+      "title": "Desktop PC Price in Bangladesh 2026 | Star Tech",
+      "headline": "Desktop PC Price in Bangladesh (BD)",
+      "total_products": 140,
+      "total_pages": 7,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Desktop",
+          "url": "https://www.startech.com.bd/desktops"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "Desktop Offer",
+          "url": "https://www.startech.com.bd/special-pc"
+        },
+        {
+          "name": "Star PC",
+          "url": "https://www.startech.com.bd/desktops/star-pc"
+        },
+        {
+          "name": "Gaming PC",
+          "url": "https://www.startech.com.bd/desktops/gaming-pc"
+        },
+        {
+          "name": "Brand PC",
+          "url": "https://www.startech.com.bd/desktops/brand-pc"
+        },
+        {
+          "name": "All-in-One PC",
+          "url": "https://www.startech.com.bd/desktops/all-in-one-pc"
+        },
+        {
+          "name": "Portable Mini PC",
+          "url": "https://www.startech.com.bd/desktops/portable-mini-pc"
+        },
+        {
+          "name": "AI PC",
+          "url": "https://www.startech.com.bd/ai-pc"
+        },
+        {
+          "name": "Apple Mac Mini",
+          "url": "https://www.startech.com.bd/apple-mac-mini"
+        },
+        {
+          "name": "Apple iMac",
+          "url": "https://www.startech.com.bd/apple-imac"
+        },
+        {
+          "name": "Apple Mac Studio",
+          "url": "https://www.startech.com.bd/apple-mac-studio"
+        },
+        {
+          "name": "Apple Mac Pro",
+          "url": "https://www.startech.com.bd/apple-mac-pro"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        },
+        {
+          "name": "Processor",
+          "items": [
+            "Intel",
+            "AMD",
+            "Apple"
+          ]
+        },
+        {
+          "name": "RAM",
+          "items": [
+            "8 GB",
+            "16 GB",
+            "32 GB",
+            "64 GB",
+            "128 GB"
+          ]
+        },
+        {
+          "name": "SSD",
+          "items": [
+            "256GB SSD",
+            "512GB SSD",
+            "1TB SSD",
+            "2TB SSD"
+          ]
+        },
+        {
+          "name": "Graphics",
+          "items": [
+            "Shared / Integrated",
+            "Dedicated 4GB",
+            "Dedicated 6GB",
+            "Dedicated 8GB",
+            "Dedicated 12GB",
+            "Dedicated 16GB",
+            "Dedicated 32GB"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gadget",
+      "slug": "gadget",
+      "url": "https://www.startech.com.bd/gadget",
+      "title": "Gadget and Gear Price in Bangladesh | Gadget & Gear Shop - Star Tech",
+      "headline": "Gadget and Gear Shop in Bangladesh. Latest Gadget at the lowest Price in Bangladesh",
+      "total_products": 2231,
+      "total_pages": 112,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Gadget",
+          "url": "https://www.startech.com.bd/gadget"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "Smart Watch",
+          "url": "https://www.startech.com.bd/gadget/smart-watch"
+        },
+        {
+          "name": "Smart Band",
+          "url": "https://www.startech.com.bd/smart-band"
+        },
+        {
+          "name": "Earphone",
+          "url": "https://www.startech.com.bd/earphone"
+        },
+        {
+          "name": "Earbuds",
+          "url": "https://www.startech.com.bd/earbuds"
+        },
+        {
+          "name": "Neckband",
+          "url": "https://www.startech.com.bd/neckband"
+        },
+        {
+          "name": "Trimmer",
+          "url": "https://www.startech.com.bd/trimmer"
+        },
+        {
+          "name": "Smart Ring",
+          "url": "https://www.startech.com.bd/smart-ring"
+        },
+        {
+          "name": "Smart Glasses",
+          "url": "https://www.startech.com.bd/smart-glasses"
+        },
+        {
+          "name": "Power Bank",
+          "url": "https://www.startech.com.bd/power-bank"
+        },
+        {
+          "name": "Mini Fan",
+          "url": "https://www.startech.com.bd/mini-fan"
+        },
+        {
+          "name": "TV Box",
+          "url": "https://www.startech.com.bd/tv-box"
+        },
+        {
+          "name": "Studio Equipment",
+          "url": "https://www.startech.com.bd/studio-equipment"
+        },
+        {
+          "name": "Drones",
+          "url": "https://www.startech.com.bd/drone"
+        },
+        {
+          "name": "Gimbal",
+          "url": "https://www.startech.com.bd/gimbal"
+        },
+        {
+          "name": "Calculator",
+          "url": "https://www.startech.com.bd/calculator"
+        },
+        {
+          "name": "Blower Machine",
+          "url": "https://www.startech.com.bd/blower-machine"
+        },
+        {
+          "name": "Stream Deck",
+          "url": "https://www.startech.com.bd/stream-deck"
+        },
+        {
+          "name": "Daily Lifestyle",
+          "url": "https://www.startech.com.bd/gadget/daily-lifestyle"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gaming",
+      "slug": "gaming",
+      "url": "https://www.startech.com.bd/gaming",
+      "title": "Gaming PC Accessories and Gears Price in Bangladesh | Star Tech",
+      "headline": "Gaming Accessories and Gears are available at the most affordable price in BD",
+      "total_products": 1417,
+      "total_pages": 71,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Gaming",
+          "url": "https://www.startech.com.bd/gaming"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "Gaming Chair",
+          "url": "https://www.startech.com.bd/gaming-chair"
+        },
+        {
+          "name": "Gaming Desk",
+          "url": "https://www.startech.com.bd/gaming-desk"
+        },
+        {
+          "name": "Keyboard",
+          "url": "https://www.startech.com.bd/gaming-keyboard"
+        },
+        {
+          "name": "Mouse",
+          "url": "https://www.startech.com.bd/gaming-mouse"
+        },
+        {
+          "name": "Headphone",
+          "url": "https://www.startech.com.bd/gaming-headphone"
+        },
+        {
+          "name": "Mouse Pad",
+          "url": "https://www.startech.com.bd/gaming-mouse-pad"
+        },
+        {
+          "name": "VR",
+          "url": "https://www.startech.com.bd/vr"
+        },
+        {
+          "name": "Gamepad",
+          "url": "https://www.startech.com.bd/game-pad"
+        },
+        {
+          "name": "Racing Wheel",
+          "url": "https://www.startech.com.bd/racing-wheel"
+        },
+        {
+          "name": "Gaming Console",
+          "url": "https://www.startech.com.bd/gaming-console"
+        },
+        {
+          "name": "Gaming Sofa",
+          "url": "https://www.startech.com.bd/gaming-sofa"
+        },
+        {
+          "name": "Games",
+          "url": "https://www.startech.com.bd/ps4-n-x-box-one-games"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Laptop",
+      "slug": "laptop-notebook",
+      "url": "https://www.startech.com.bd/laptop-notebook",
+      "title": "Laptop & Netbook Price in Bangladesh | Star Tech",
+      "headline": "Buy Laptop and Notebook at best price in Bangladesh",
+      "total_products": 408,
+      "total_pages": 21,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Laptop",
+          "url": "https://www.startech.com.bd/laptop-notebook"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "All Laptop",
+          "url": "https://www.startech.com.bd/laptop-notebook/laptop"
+        },
+        {
+          "name": "OLED Laptop",
+          "url": "https://www.startech.com.bd/oled-laptop"
+        },
+        {
+          "name": "Gaming Laptop",
+          "url": "https://www.startech.com.bd/laptop-notebook/Gaming-Laptop"
+        },
+        {
+          "name": "Premium Ultrabook",
+          "url": "https://www.startech.com.bd/laptop-notebook/ultrabook"
+        },
+        {
+          "name": "Laptop Bag",
+          "url": "https://www.startech.com.bd/laptop-bag-backpack"
+        },
+        {
+          "name": "Laptop Accessories",
+          "url": "https://www.startech.com.bd/laptop-notebook/laptop-accessories"
+        },
+        {
+          "name": "Pentium and Celeron Laptop",
+          "url": "https://www.startech.com.bd/pentium-celeron-laptop"
+        },
+        {
+          "name": "Intel Core i3 Laptop",
+          "url": "https://www.startech.com.bd/core-i3-laptop"
+        },
+        {
+          "name": "Intel Core i5 Laptop",
+          "url": "https://www.startech.com.bd/core-i5-laptop"
+        },
+        {
+          "name": "Intel Core i7 Laptop",
+          "url": "https://www.startech.com.bd/core-i7-laptop"
+        },
+        {
+          "name": "Intel Core i9 Laptop",
+          "url": "https://www.startech.com.bd/core-i9-laptop"
+        },
+        {
+          "name": "Intel Core Ultra 7 Laptop",
+          "url": "https://www.startech.com.bd/core-ultra-7-laptop"
+        },
+        {
+          "name": "Intel Core Ultra 9 Laptop",
+          "url": "https://www.startech.com.bd/core-ultra-9-laptop"
+        },
+        {
+          "name": "Intel Core Ultra 5 Laptop",
+          "url": "https://www.startech.com.bd/core-ultra-5-laptop"
+        },
+        {
+          "name": "AMD Ryzen 3 Laptop",
+          "url": "https://www.startech.com.bd/amd-ryzen-3-laptop"
+        },
+        {
+          "name": "AMD Ryzen 5 Laptop",
+          "url": "https://www.startech.com.bd/amd-ryzen-5-laptop"
+        },
+        {
+          "name": "AMD Ryzen 7 Laptop",
+          "url": "https://www.startech.com.bd/amd-ryzen-7-laptop"
+        },
+        {
+          "name": "AMD Ryzen 9 Laptop",
+          "url": "https://www.startech.com.bd/amd-ryzen-9-laptop"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        },
+        {
+          "name": "Series",
+          "items": [
+            "Consumer Laptops",
+            "Business Laptops",
+            "Gaming Laptops",
+            "Premium Ultrabook Laptops"
+          ]
+        },
+        {
+          "name": "Brand",
+          "items": [
+            "Apple",
+            "Microsoft",
+            "HP",
+            "Dell",
+            "Lenovo",
+            "ASUS",
+            "Acer",
+            "MSI",
+            "Gigabyte",
+            "Walton",
+            "Smart",
+            "Chuwi",
+            "Tecno"
+          ]
+        },
+        {
+          "name": "Processor Type",
+          "items": [
+            "Intel",
+            "AMD",
+            "Apple",
+            "Snapdragon"
+          ]
+        },
+        {
+          "name": "Processor Model",
+          "items": [
+            "Intel CDC",
+            "Intel PQC",
+            "Intel Core i3",
+            "Intel Core i5",
+            "Intel Core i7",
+            "Intel Core i9",
+            "AMD Athlon",
+            "AMD Ryzen 3",
+            "AMD Ryzen 5",
+            "AMD Ryzen 7",
+            "AMD Ryzen 9",
+            "Apple M2",
+            "Apple M4",
+            "Apple M4 Pro",
+            "Apple M4 Max",
+            "Apple M5",
+            "Apple M5 Pro",
+            "Intel Core Ultra 7",
+            "Apple M5 Max",
+            "Intel Core Ultra 9",
+            "Intel Core Ultra 5",
+            "Snapdragon X Elite",
+            "Snapdragon X Plus",
+            "Intel Core 3",
+            "Intel Core 5",
+            "Intel Core 7",
+            "Intel Core 9",
+            "Snapdragon X X1",
+            "Ryzen AI 9 HX 370",
+            "Ryzen AI 7",
+            "Ryzen AI 5"
+          ]
+        },
+        {
+          "name": "Generation/Series",
+          "items": [
+            "Intel 10th Gen",
+            "Intel 11th Gen",
+            "Intel 13th Gen",
+            "Intel 12th Gen",
+            "Intel 14th Gen",
+            "Ryzen 3000 Series",
+            "Ryzen 5000 Series",
+            "Ryzen 7000 Series",
+            "Ryzen 8000 Series",
+            "Ryzen 9000 Series",
+            "Ryzen AI 300 Series",
+            "Ryzen AI 400 Series",
+            "Ryzen 200 Series"
+          ]
+        },
+        {
+          "name": "Display Size",
+          "items": [
+            "Below 13-inch",
+            "13-Inch to 13.9-Inch",
+            "14-Inch to 14.9-Inch",
+            "15-Inch to 15.9-Inch",
+            "16-Inch to 16.9-Inch",
+            "17-Inch to 17.9-Inch"
+          ]
+        },
+        {
+          "name": "Display Type",
+          "items": [
+            "LED",
+            "OLED"
+          ]
+        },
+        {
+          "name": "RAM Size",
+          "items": [
+            "4 GB",
+            "8 GB",
+            "12 GB",
+            "16 GB",
+            "18 GB",
+            "24 GB",
+            "32 GB",
+            "48 GB",
+            "36 GB",
+            "64 GB"
+          ]
+        },
+        {
+          "name": "RAM Type",
+          "items": [
+            "DDR4",
+            "DDR5"
+          ]
+        },
+        {
+          "name": "HDD",
+          "items": [
+            "1 TB"
+          ]
+        },
+        {
+          "name": "SSD",
+          "items": [
+            "256 GB",
+            "512 GB",
+            "1 TB",
+            "2 TB",
+            "4 TB"
+          ]
+        },
+        {
+          "name": "Graphics",
+          "items": [
+            "Shared / Integrated",
+            "Dedicated 4GB",
+            "Dedicated 6GB",
+            "Dedicated 8GB",
+            "Dedicated 12GB",
+            "Dedicated 16GB",
+            "Dedicated 24GB"
+          ]
+        },
+        {
+          "name": "Operating System",
+          "items": [
+            "Free Dos",
+            "Windows",
+            "macOS"
+          ]
+        },
+        {
+          "name": "Special Features",
+          "items": [
+            "Backlit Keyboard",
+            "Finger Print",
+            "360°",
+            "Touch Screen",
+            "Dual Display",
+            "Type-C Port",
+            "RJ45 LAN Port"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Monitor",
+      "slug": "monitor",
+      "url": "https://www.startech.com.bd/monitor",
+      "title": "Monitor Price in Bangladesh 2026 | Star Tech",
+      "headline": "Monitor Price in Bangladesh",
+      "total_products": 781,
+      "total_pages": 40,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Monitor",
+          "url": "https://www.startech.com.bd/monitor"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "MSI",
+          "url": "https://www.startech.com.bd/msi-monitor"
+        },
+        {
+          "name": "AOC",
+          "url": "https://www.startech.com.bd/aoc-monitor"
+        },
+        {
+          "name": "BenQ",
+          "url": "https://www.startech.com.bd/benq-monitor"
+        },
+        {
+          "name": "HP",
+          "url": "https://www.startech.com.bd/hp-monitor"
+        },
+        {
+          "name": "Asus",
+          "url": "https://www.startech.com.bd/asus-monitor"
+        },
+        {
+          "name": "Lenovo",
+          "url": "https://www.startech.com.bd/lenovo-monitor"
+        },
+        {
+          "name": "LG",
+          "url": "https://www.startech.com.bd/lg-monitor"
+        },
+        {
+          "name": "Philips",
+          "url": "https://www.startech.com.bd/philips-monitor"
+        },
+        {
+          "name": "Dell",
+          "url": "https://www.startech.com.bd/dell-monitor"
+        },
+        {
+          "name": "Gigabyte",
+          "url": "https://www.startech.com.bd/gigabyte-monitor"
+        },
+        {
+          "name": "Samsung",
+          "url": "https://www.startech.com.bd/samsung-monitor"
+        },
+        {
+          "name": "Acer",
+          "url": "https://www.startech.com.bd/acer-monitor"
+        },
+        {
+          "name": "ViewSonic",
+          "url": "https://www.startech.com.bd/viewsonic-monitor"
+        },
+        {
+          "name": "Corsair",
+          "url": "https://www.startech.com.bd/corsair-monitor"
+        },
+        {
+          "name": "Walton",
+          "url": "https://www.startech.com.bd/walton-monitor"
+        },
+        {
+          "name": "Thermaltake",
+          "url": "https://www.startech.com.bd/thermaltake-monitor"
+        },
+        {
+          "name": "Dahua",
+          "url": "https://www.startech.com.bd/dahua-monitor"
+        },
+        {
+          "name": "PC Power",
+          "url": "https://www.startech.com.bd/pc-power-monitor"
+        },
+        {
+          "name": "Hikvision",
+          "url": "https://www.startech.com.bd/hikvision-monitor"
+        },
+        {
+          "name": "ThundeRobot",
+          "url": "https://www.startech.com.bd/thuderobot-monitor"
+        },
+        {
+          "name": "Titan Army",
+          "url": "https://www.startech.com.bd/titan-army-monitor"
+        },
+        {
+          "name": "Apple",
+          "url": "https://www.startech.com.bd/apple-monitor"
+        },
+        {
+          "name": "Value-Top",
+          "url": "https://www.startech.com.bd/value-top-monitor"
+        },
+        {
+          "name": "AIWA",
+          "url": "https://www.startech.com.bd/aiwa-monitor"
+        },
+        {
+          "name": "Xiaomi",
+          "url": "https://www.startech.com.bd/xiaomi-monitor"
+        },
+        {
+          "name": "FeuVision",
+          "url": "https://www.startech.com.bd/feuvision-monitor"
+        },
+        {
+          "name": "Gigasonic",
+          "url": "https://www.startech.com.bd/gigasonic-monitor"
+        },
+        {
+          "name": "TrendSonic",
+          "url": "https://www.startech.com.bd/trendsonic-monitor"
+        },
+        {
+          "name": "Smart",
+          "url": "https://www.startech.com.bd/smart-monitor"
+        },
+        {
+          "name": "Arzopa",
+          "url": "https://www.startech.com.bd/arzopa-monitor"
+        },
+        {
+          "name": "Koorui",
+          "url": "https://www.startech.com.bd/koorui-monitor"
+        },
+        {
+          "name": "Fopo",
+          "url": "https://www.startech.com.bd/fopo-monitor"
+        },
+        {
+          "name": "GEESUU",
+          "url": "https://www.startech.com.bd/geesuu-monitor"
+        },
+        {
+          "name": "Eurovision",
+          "url": "https://www.startech.com.bd/eurovision-monitor"
+        },
+        {
+          "name": "Gaming Monitor",
+          "url": "https://www.startech.com.bd/gaming-monitor"
+        },
+        {
+          "name": "Curved Monitor",
+          "url": "https://www.startech.com.bd/curved-monitor"
+        },
+        {
+          "name": "Touch Monitor",
+          "url": "https://www.startech.com.bd/touch-screen-monitor"
+        },
+        {
+          "name": "4K Monitor",
+          "url": "https://www.startech.com.bd/4k-monitor"
+        },
+        {
+          "name": "Portable Monitor",
+          "url": "https://www.startech.com.bd/portable-monitor"
+        },
+        {
+          "name": "Monitor Arm",
+          "url": "https://www.startech.com.bd/monitor-arm"
+        },
+        {
+          "name": "Monitor Light Bar",
+          "url": "https://www.startech.com.bd/monitor-light-bar"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        },
+        {
+          "name": "Brand",
+          "items": [
+            "MSI",
+            "AOC",
+            "BenQ",
+            "Asus",
+            "Acer",
+            "Dell",
+            "XIAOMI",
+            "HP",
+            "GIGABYTE",
+            "LG",
+            "Samsung",
+            "Walton",
+            "PHILIPS",
+            "Viewsonic",
+            "Hikvision",
+            "Huawei",
+            "Lenovo",
+            "Dahua",
+            "TrendSonic",
+            "Value-Top",
+            "Corsair",
+            "PC Power",
+            "Gigasonic",
+            "AIWA",
+            "ThundeRobot",
+            "Smart",
+            "Titan Army",
+            "Arzopa",
+            "KOORUI",
+            "FeuVision",
+            "Fopo",
+            "GEESUU",
+            "Eurovision",
+            "Thermaltake"
+          ]
+        },
+        {
+          "name": "Screen Size",
+          "items": [
+            "15-17 inch",
+            "18-20 inch",
+            "21-22 inch",
+            "23-25 inch",
+            "26-30 inch",
+            "31-40 inch",
+            "41 inch & Above"
+          ]
+        },
+        {
+          "name": "Resolution",
+          "items": [
+            "HD or Below",
+            "FHD",
+            "2K QHD",
+            "4K UHD",
+            "5K"
+          ]
+        },
+        {
+          "name": "Panel Type",
+          "items": [
+            "TN",
+            "VA",
+            "IPS",
+            "OLED",
+            "Mini LED"
+          ]
+        },
+        {
+          "name": "Refresh Rate",
+          "items": [
+            "Up to 75 Hz",
+            "100 Hz",
+            "120 Hz",
+            "144 Hz",
+            "160 Hz",
+            "165 Hz",
+            "170 Hz",
+            "175 Hz",
+            "180 Hz",
+            "200 Hz",
+            "210 Hz",
+            "240 Hz",
+            "255 Hz",
+            "260 Hz",
+            "275 Hz",
+            "280 Hz",
+            "300 Hz",
+            "310 Hz",
+            "320 Hz",
+            "340 Hz",
+            "360 Hz",
+            "425 Hz",
+            "480 Hz",
+            "500 Hz",
+            "520 Hz",
+            "540 Hz"
+          ]
+        },
+        {
+          "name": "Response Time",
+          "items": [
+            "≤ 0.5 ms",
+            "1-4 ms",
+            "5-7 ms",
+            "8-12 ms",
+            "13-14 ms",
+            "15 and Above"
+          ]
+        },
+        {
+          "name": "Input Type",
+          "items": [
+            "VGA",
+            "HDMI",
+            "DisplayPort",
+            "DVI",
+            "D-SUB",
+            "USB",
+            "USB Type-C",
+            "Thunderbolt",
+            "Audio Jack"
+          ]
+        },
+        {
+          "name": "Features",
+          "items": [
+            "Touch Screen",
+            "Built-in Speaker",
+            "Curved Screen",
+            "Built-in Webcam",
+            "AMD FreeSync",
+            "NVIDIA G-Sync",
+            "Gaming",
+            "Ultra-Wide",
+            "Wall Mountable"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Networking",
+      "slug": "networking",
+      "url": "https://www.startech.com.bd/networking",
+      "title": "Networking Device Price in Bangladesh | Star Tech",
+      "headline": null,
+      "total_products": 1582,
+      "total_pages": 80,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Networking",
+          "url": "https://www.startech.com.bd/networking"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "Starlink",
+          "url": "https://www.startech.com.bd/starlink"
+        },
+        {
+          "name": "Router",
+          "url": "https://www.startech.com.bd/networking/router"
+        },
+        {
+          "name": "Pocket Router",
+          "url": "https://www.startech.com.bd/pocket-router"
+        },
+        {
+          "name": "WiFi Range Extender",
+          "url": "https://www.startech.com.bd/wifi-extender"
+        },
+        {
+          "name": "Access Point",
+          "url": "https://www.startech.com.bd/access-point"
+        },
+        {
+          "name": "Network Switch",
+          "url": "https://www.startech.com.bd/networking/network-switch"
+        },
+        {
+          "name": "WiFi Adapter",
+          "url": "https://www.startech.com.bd/wifi-adapter"
+        },
+        {
+          "name": "Firewall",
+          "url": "https://www.startech.com.bd/firewall"
+        },
+        {
+          "name": "Networking Cable",
+          "url": "https://www.startech.com.bd/networking-cable"
+        },
+        {
+          "name": "LAN Card",
+          "url": "https://www.startech.com.bd/lan-card"
+        },
+        {
+          "name": "Patch Cord",
+          "url": "https://www.startech.com.bd/patch-cord"
+        },
+        {
+          "name": "Connector",
+          "url": "https://www.startech.com.bd/cable-connector"
+        },
+        {
+          "name": "OLT",
+          "url": "https://www.startech.com.bd/olt"
+        },
+        {
+          "name": "ONU",
+          "url": "https://www.startech.com.bd/onu"
+        },
+        {
+          "name": "Splicer Machine",
+          "url": "https://www.startech.com.bd/splicer-machine"
+        },
+        {
+          "name": "OTDR",
+          "url": "https://www.startech.com.bd/otdr"
+        },
+        {
+          "name": "PoE Injector",
+          "url": "https://www.startech.com.bd/poe-injector"
+        },
+        {
+          "name": "Crimping Tool",
+          "url": "https://www.startech.com.bd/crimping-tool"
+        },
+        {
+          "name": "Network Transceivers",
+          "url": "https://www.startech.com.bd/network-transceivers"
+        },
+        {
+          "name": "Faceplate",
+          "url": "https://www.startech.com.bd/faceplate"
+        },
+        {
+          "name": "Patch Panel",
+          "url": "https://www.startech.com.bd/patch-panel"
+        },
+        {
+          "name": "Media Converter",
+          "url": "https://www.startech.com.bd/media-converter"
+        },
+        {
+          "name": "Cable Tester",
+          "url": "https://www.startech.com.bd/cable-tester"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Office Equipment",
+      "slug": "office-equipment",
+      "url": "https://www.startech.com.bd/office-equipment",
+      "title": "Office Equipment Price in Bangladesh 2026 | Star Tech",
+      "headline": "Get Office Equipments at the Best price in BD",
+      "total_products": 2080,
+      "total_pages": 104,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Office Equipment",
+          "url": "https://www.startech.com.bd/office-equipment"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "Projector",
+          "url": "https://www.startech.com.bd/projector"
+        },
+        {
+          "name": "Conference System",
+          "url": "https://www.startech.com.bd/office-equipment/conference-systems"
+        },
+        {
+          "name": "PA System",
+          "url": "https://www.startech.com.bd/pa-system"
+        },
+        {
+          "name": "Interactive Flat Panel",
+          "url": "https://www.startech.com.bd/interactive-flat-panel"
+        },
+        {
+          "name": "Video Wall",
+          "url": "https://www.startech.com.bd/video-wall"
+        },
+        {
+          "name": "Signage",
+          "url": "https://www.startech.com.bd/office-equipment/signage"
+        },
+        {
+          "name": "Kiosk",
+          "url": "https://www.startech.com.bd/kiosk"
+        },
+        {
+          "name": "Printer",
+          "url": "https://www.startech.com.bd/printer"
+        },
+        {
+          "name": "Laser Printer",
+          "url": "https://www.startech.com.bd/laser-printer"
+        },
+        {
+          "name": "Large Format Printer",
+          "url": "https://www.startech.com.bd/large-format-printer"
+        },
+        {
+          "name": "ID Card Printer",
+          "url": "https://www.startech.com.bd/id-card-printer"
+        },
+        {
+          "name": "POS Printer",
+          "url": "https://www.startech.com.bd/pos-printer"
+        },
+        {
+          "name": "Label Printer",
+          "url": "https://www.startech.com.bd/label-printer"
+        },
+        {
+          "name": "Dot Matrix Printer",
+          "url": "https://www.startech.com.bd/dot-matrix-printer"
+        },
+        {
+          "name": "Photocopier",
+          "url": "https://www.startech.com.bd/photocopier"
+        },
+        {
+          "name": "Printer Head",
+          "url": "https://www.startech.com.bd/printer-head"
+        },
+        {
+          "name": "Toner",
+          "url": "https://www.startech.com.bd/office-equipment/toner"
+        },
+        {
+          "name": "Cartridge",
+          "url": "https://www.startech.com.bd/cartridge"
+        },
+        {
+          "name": "Ink Bottle",
+          "url": "https://www.startech.com.bd/ink-bottle"
+        },
+        {
+          "name": "Ribbon",
+          "url": "https://www.startech.com.bd/ribbon"
+        },
+        {
+          "name": "Printer Paper",
+          "url": "https://www.startech.com.bd/printer-paper"
+        },
+        {
+          "name": "Printer Drum",
+          "url": "https://www.startech.com.bd/printer-drum"
+        },
+        {
+          "name": "Scanner",
+          "url": "https://www.startech.com.bd/office-equipment/Scanner"
+        },
+        {
+          "name": "Barcode Scanner",
+          "url": "https://www.startech.com.bd/office-equipment/Barcode-Scanner"
+        },
+        {
+          "name": "Cash Drawer",
+          "url": "https://www.startech.com.bd/cash-drawer"
+        },
+        {
+          "name": "Fax",
+          "url": "https://www.startech.com.bd/fax-machine"
+        },
+        {
+          "name": "Telephone Set",
+          "url": "https://www.startech.com.bd/office-equipment/telephone-set"
+        },
+        {
+          "name": "IP Phone",
+          "url": "https://www.startech.com.bd/office-equipment/ip-phone"
+        },
+        {
+          "name": "PABX System",
+          "url": "https://www.startech.com.bd/ip-pabx-system"
+        },
+        {
+          "name": "Money Counting Machine",
+          "url": "https://www.startech.com.bd/office-equipment/money-counting-machine"
+        },
+        {
+          "name": "Paper Shredder",
+          "url": "https://www.startech.com.bd/office-equipment/paper-shredder"
+        },
+        {
+          "name": "Laminating Machine",
+          "url": "https://www.startech.com.bd/office-equipment/laminating-machine"
+        },
+        {
+          "name": "Binding Machine",
+          "url": "https://www.startech.com.bd/binding-machine"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Phone",
+      "slug": "mobile-phone",
+      "url": "https://www.startech.com.bd/mobile-phone",
+      "title": "Mobile Phone Price in Bangladesh 2026 | Star Tech",
+      "headline": "Mobile Phone Price in Bangladesh",
+      "total_products": 251,
+      "total_pages": 13,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Phone",
+          "url": "https://www.startech.com.bd/mobile-phone"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "iPhone",
+          "url": "https://www.startech.com.bd/apple-iphone"
+        },
+        {
+          "name": "Samsung",
+          "url": "https://www.startech.com.bd/samsung-mobile-phone"
+        },
+        {
+          "name": "Google",
+          "url": "https://www.startech.com.bd/google-pixel-phone"
+        },
+        {
+          "name": "Redmi",
+          "url": "https://www.startech.com.bd/xiaomi-mobile-phone"
+        },
+        {
+          "name": "Realme",
+          "url": "https://www.startech.com.bd/realme-mobile-phone"
+        },
+        {
+          "name": "Vivo",
+          "url": "https://www.startech.com.bd/vivo-mobile-phone"
+        },
+        {
+          "name": "OPPO",
+          "url": "https://www.startech.com.bd/oppo-mobile-phone"
+        },
+        {
+          "name": "HONOR",
+          "url": "https://www.startech.com.bd/honor-mobile-phone"
+        },
+        {
+          "name": "OnePlus",
+          "url": "https://www.startech.com.bd/oneplus-mobile-phone"
+        },
+        {
+          "name": "TECNO",
+          "url": "https://www.startech.com.bd/tecno-mobile-phone"
+        },
+        {
+          "name": "Infinix",
+          "url": "https://www.startech.com.bd/infinix-mobile-phone"
+        },
+        {
+          "name": "Symphony",
+          "url": "https://www.startech.com.bd/symphony-mobile-phone"
+        },
+        {
+          "name": "Helio",
+          "url": "https://www.startech.com.bd/helio-mobile-phone"
+        },
+        {
+          "name": "Nokia",
+          "url": "https://www.startech.com.bd/nokia-mobile-phone"
+        },
+        {
+          "name": "ZTE",
+          "url": "https://www.startech.com.bd/zte-mobile-phone"
+        },
+        {
+          "name": "HTC",
+          "url": "https://www.startech.com.bd/htc-mobile-phone"
+        },
+        {
+          "name": "TCL",
+          "url": "https://www.startech.com.bd/tcl-mobile-phone"
+        },
+        {
+          "name": "Walton",
+          "url": "https://www.startech.com.bd/walton-mobile-phone"
+        },
+        {
+          "name": "benco",
+          "url": "https://www.startech.com.bd/benco-mobile-phone"
+        },
+        {
+          "name": "XTRA",
+          "url": "https://www.startech.com.bd/xtra-mobile-phone"
+        },
+        {
+          "name": "Feature Phone",
+          "url": "https://www.startech.com.bd/feature-phone"
+        },
+        {
+          "name": "Mobile Accessories",
+          "url": "https://www.startech.com.bd/mobile-phone-accessories"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        },
+        {
+          "name": "Brand",
+          "items": [
+            "Apple",
+            "Samsung",
+            "OnePlus",
+            "OPPO",
+            "Vivo",
+            "Realme",
+            "Xiaomi",
+            "Nokia",
+            "HONOR",
+            "TCL",
+            "Infinix",
+            "ZTE",
+            "benco",
+            "Tecno",
+            "Walton",
+            "Google",
+            "Symphony",
+            "Helio",
+            "HTC"
+          ]
+        },
+        {
+          "name": "Display Size",
+          "items": [
+            "6.0\" to 6.4\"",
+            "6.5\" to 6.9\"",
+            "7.0\" and Above"
+          ]
+        },
+        {
+          "name": "Display Type",
+          "items": [
+            "TFT",
+            "IPS",
+            "AMOLED",
+            "Super AMOLED",
+            "OLED"
+          ]
+        },
+        {
+          "name": "Chipset",
+          "items": [
+            "Snapdragon",
+            "MediaTek",
+            "Exynos",
+            "UNISOC",
+            "Bionic",
+            "Tensor"
+          ]
+        },
+        {
+          "name": "RAM",
+          "items": [
+            "2GB",
+            "3GB",
+            "4GB",
+            "6GB",
+            "8GB",
+            "12GB",
+            "16GB"
+          ]
+        },
+        {
+          "name": "Internal Storage",
+          "items": [
+            "64GB",
+            "128GB",
+            "256GB",
+            "512GB",
+            "1TB"
+          ]
+        },
+        {
+          "name": "Battery",
+          "items": [
+            "2000 to 2999 mAh",
+            "3000 to 3999 mAh",
+            "4000 to 4999 mAh",
+            "5000 to 5999 mAh",
+            "6000 to 6999 mAh",
+            "7000 mAh above"
+          ]
+        },
+        {
+          "name": "Features",
+          "items": [
+            "Dual SIM",
+            "eSIM Support",
+            "5G Network",
+            "Virtual Memory",
+            "Fast Charging",
+            "Water Resistant",
+            "Foldable",
+            "AI Integrated"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Power",
+      "slug": "power",
+      "url": "https://www.startech.com.bd/power",
+      "title": "Power Backup System Price in Bangladesh 2026 | Star Tech",
+      "headline": null,
+      "total_products": 259,
+      "total_pages": 13,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Power",
+          "url": "https://www.startech.com.bd/power"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "UPS",
+          "url": "https://www.startech.com.bd/ups"
+        },
+        {
+          "name": "Online UPS",
+          "url": "https://www.startech.com.bd/online-ups"
+        },
+        {
+          "name": "Mini UPS",
+          "url": "https://www.startech.com.bd/mini-ups"
+        },
+        {
+          "name": "Portable Power Station",
+          "url": "https://www.startech.com.bd/portable-power-station"
+        },
+        {
+          "name": "IPS",
+          "url": "https://www.startech.com.bd/ips"
+        },
+        {
+          "name": "UPS Battery",
+          "url": "https://www.startech.com.bd/ups-battery"
+        },
+        {
+          "name": "Voltage Stabilizer",
+          "url": "https://www.startech.com.bd/stabilizer"
+        },
+        {
+          "name": "Inverter",
+          "url": "https://www.startech.com.bd/inverter"
+        },
+        {
+          "name": "Solar Panel",
+          "url": "https://www.startech.com.bd/solar-panel"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Security",
+      "slug": "Security-Camera",
+      "url": "https://www.startech.com.bd/Security-Camera",
+      "title": "Security Products Price in Bangladesh | Star Tech",
+      "headline": "Find the Best CCTV Security Solution at Star Tech in Bangladesh",
+      "total_products": 1025,
+      "total_pages": 52,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Security",
+          "url": "https://www.startech.com.bd/Security-Camera"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "Portable WiFi Camera",
+          "url": "https://www.startech.com.bd/wifi-camera"
+        },
+        {
+          "name": "IP Camera",
+          "url": "https://www.startech.com.bd/Security-Camera/ip-camera"
+        },
+        {
+          "name": "CC Camera",
+          "url": "https://www.startech.com.bd/Security-Camera/cc-camera"
+        },
+        {
+          "name": "PTZ Camera",
+          "url": "https://www.startech.com.bd/Security-Camera/ptz-camera"
+        },
+        {
+          "name": "CC Camera Package",
+          "url": "https://www.startech.com.bd/cc-camera-package"
+        },
+        {
+          "name": "IP Camera Package",
+          "url": "https://www.startech.com.bd/ip-camera-package"
+        },
+        {
+          "name": "DVR",
+          "url": "https://www.startech.com.bd/Security-Camera/dvr"
+        },
+        {
+          "name": "NVR",
+          "url": "https://www.startech.com.bd/Security-Camera/nvr"
+        },
+        {
+          "name": "XVR",
+          "url": "https://www.startech.com.bd/Security-Camera/xvr"
+        },
+        {
+          "name": "CC Camera Accessories",
+          "url": "https://www.startech.com.bd/Security-Camera/cc-camera-accessories"
+        },
+        {
+          "name": "Door Lock",
+          "url": "https://www.startech.com.bd/Security-Camera/door-lock"
+        },
+        {
+          "name": "Smart Door Bell",
+          "url": "https://www.startech.com.bd/Security-Camera/home-security-door-bell"
+        },
+        {
+          "name": "Access Control",
+          "url": "https://www.startech.com.bd/Security-Camera/access-control"
+        },
+        {
+          "name": "Entrance Control",
+          "url": "https://www.startech.com.bd/entrance-control"
+        },
+        {
+          "name": "Digital Locker & Vault",
+          "url": "https://www.startech.com.bd/digital-locker"
+        },
+        {
+          "name": "KVM Switch",
+          "url": "https://www.startech.com.bd/kvm-switch"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Server & Storage",
+      "slug": "server-networking",
+      "url": "https://www.startech.com.bd/server-networking",
+      "title": "Networking Server & Workstation Price in Bangladesh | Star Tech",
+      "headline": null,
+      "total_products": 286,
+      "total_pages": 15,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Server & Storage",
+          "url": "https://www.startech.com.bd/server-networking"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "Server",
+          "url": "https://www.startech.com.bd/server-networking/server"
+        },
+        {
+          "name": "GPU Server",
+          "url": "https://www.startech.com.bd/gpu-server"
+        },
+        {
+          "name": "Workstation",
+          "url": "https://www.startech.com.bd/server-networking/workstation"
+        },
+        {
+          "name": "Server Rack",
+          "url": "https://www.startech.com.bd/server-rack"
+        },
+        {
+          "name": "NAS Storage",
+          "url": "https://www.startech.com.bd/nas-storage"
+        },
+        {
+          "name": "SAN Storage",
+          "url": "https://www.startech.com.bd/san-storage"
+        },
+        {
+          "name": "DAS Storage",
+          "url": "https://www.startech.com.bd/das-storage"
+        },
+        {
+          "name": "Server HDD",
+          "url": "https://www.startech.com.bd/server-hdd"
+        },
+        {
+          "name": "Server HDD Bay",
+          "url": "https://www.startech.com.bd/server-hdd-bay"
+        },
+        {
+          "name": "Server RAM",
+          "url": "https://www.startech.com.bd/server-ram"
+        },
+        {
+          "name": "Server SSD",
+          "url": "https://www.startech.com.bd/server-ssd"
+        },
+        {
+          "name": "Server Power Supply",
+          "url": "https://www.startech.com.bd/server-power-supply"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Software",
+      "slug": "software",
+      "url": "https://www.startech.com.bd/software",
+      "title": "Windows And Antivirus Best Price in Bangladesh | Star Tech",
+      "headline": null,
+      "total_products": 91,
+      "total_pages": 5,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Software",
+          "url": "https://www.startech.com.bd/software"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "Operating System",
+          "url": "https://www.startech.com.bd/operating-system"
+        },
+        {
+          "name": "Office Application",
+          "url": "https://www.startech.com.bd/office-application"
+        },
+        {
+          "name": "Database Server Solution",
+          "url": "https://www.startech.com.bd/database-server-solution"
+        },
+        {
+          "name": "Mail Server Solution",
+          "url": "https://www.startech.com.bd/mail-server-solution"
+        },
+        {
+          "name": "Cloud Solutions",
+          "url": "https://www.startech.com.bd/cloud-solution"
+        },
+        {
+          "name": "Antivirus",
+          "url": "https://www.startech.com.bd/software/antivirus"
+        },
+        {
+          "name": "Bangla Typing Software",
+          "url": "https://www.startech.com.bd/bangla-typing-software"
+        },
+        {
+          "name": "Adobe",
+          "url": "https://www.startech.com.bd/software/adobe"
+        },
+        {
+          "name": "VMware",
+          "url": "https://www.startech.com.bd/software/vmware"
+        },
+        {
+          "name": "AutoDesk",
+          "url": "https://www.startech.com.bd/software/autodesk"
+        },
+        {
+          "name": "AnyDesk",
+          "url": "https://www.startech.com.bd/anydesk-software"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TV",
+      "slug": "television-shop",
+      "url": "https://www.startech.com.bd/television-shop",
+      "title": "Television Shop in Bangladesh | TV - Star Tech",
+      "headline": "Best Television shop in BD",
+      "total_products": 277,
+      "total_pages": 14,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "TV",
+          "url": "https://www.startech.com.bd/television-shop"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "All TV",
+          "url": "https://www.startech.com.bd/television-startech"
+        },
+        {
+          "name": "LED TV",
+          "url": "https://www.startech.com.bd/led-tv"
+        },
+        {
+          "name": "Smart TV",
+          "url": "https://www.startech.com.bd/smart-tv"
+        },
+        {
+          "name": "Android TV",
+          "url": "https://www.startech.com.bd/android-tv"
+        },
+        {
+          "name": "4K TV",
+          "url": "https://www.startech.com.bd/4k-tv"
+        },
+        {
+          "name": "AKASH Digital TV",
+          "url": "https://www.startech.com.bd/akash-dth"
+        },
+        {
+          "name": "TV Stand & Wall Mount",
+          "url": "https://www.startech.com.bd/wall-mount"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        },
+        {
+          "name": "Size",
+          "items": [
+            "32 Inch",
+            "43 Inch",
+            "50 Inch",
+            "55 Inch",
+            "65 Inch",
+            "70 Inch",
+            "75 Inch",
+            "77 Inch",
+            "85 Inch",
+            "98 Inch",
+            "100 Inch"
+          ]
+        },
+        {
+          "name": "Resolution",
+          "items": [
+            "HD",
+            "Full HD",
+            "4K UHD",
+            "8K"
+          ]
+        },
+        {
+          "name": "Type",
+          "items": [
+            "Basic",
+            "Smart",
+            "Android"
+          ]
+        },
+        {
+          "name": "Technology",
+          "items": [
+            "LED",
+            "OLED",
+            "QLED",
+            "Mini LED",
+            "QD-Mini LED"
+          ]
+        },
+        {
+          "name": "Special Features",
+          "items": [
+            "HDR",
+            "Dolby Audio",
+            "DTS Sound",
+            "Netflix",
+            "Alexa Built-in",
+            "Alexa Compatible"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tablet",
+      "slug": "tablet-pc",
+      "url": "https://www.startech.com.bd/tablet-pc",
+      "title": "Tablet Price in Bangladesh 2026 | Star Tech",
+      "headline": "Tablet Price in Bangladesh",
+      "total_products": 111,
+      "total_pages": 6,
+      "breadcrumbs": [
+        {
+          "text": "home",
+          "url": "https://www.startech.com.bd/"
+        },
+        {
+          "text": "Tablet",
+          "url": "https://www.startech.com.bd/tablet-pc"
+        }
+      ],
+      "child_categories": [
+        {
+          "name": "Graphics Tablet",
+          "url": "https://www.startech.com.bd/graphics-tablet"
+        },
+        {
+          "name": "Kids Tablet",
+          "url": "https://www.startech.com.bd/kids-tablet"
+        },
+        {
+          "name": "iPad",
+          "url": "https://www.startech.com.bd/apple-ipad"
+        },
+        {
+          "name": "Lenovo",
+          "url": "https://www.startech.com.bd/tablet-pc/lenovo-tablet-pc"
+        },
+        {
+          "name": "Samsung",
+          "url": "https://www.startech.com.bd/samsung-tablet"
+        },
+        {
+          "name": "HONOR",
+          "url": "https://www.startech.com.bd/honor-tablet-pc"
+        },
+        {
+          "name": "Xiaomi",
+          "url": "https://www.startech.com.bd/xiaomi-tablet-pc"
+        },
+        {
+          "name": "Walton",
+          "url": "https://www.startech.com.bd/walton-tablet-pc"
+        },
+        {
+          "name": "Huion",
+          "url": "https://www.startech.com.bd/huion-tablet"
+        },
+        {
+          "name": "HUAWEI",
+          "url": "https://www.startech.com.bd/tablet-pc/huawei-tablet-pc"
+        },
+        {
+          "name": "Chuwi",
+          "url": "https://www.startech.com.bd/chuwi-tablet-pc"
+        },
+        {
+          "name": "Amazon",
+          "url": "https://www.startech.com.bd/amazon-tablet-pc"
+        },
+        {
+          "name": "Google",
+          "url": "https://www.startech.com.bd/pixel-tablet"
+        },
+        {
+          "name": "Microsoft",
+          "url": "https://www.startech.com.bd/tablet-pc/microsoft-tablet-pc"
+        },
+        {
+          "name": "OnePlus",
+          "url": "https://www.startech.com.bd/oneplus-tablet"
+        },
+        {
+          "name": "Teclast",
+          "url": "https://www.startech.com.bd/teclast-tablet"
+        },
+        {
+          "name": "ZTE",
+          "url": "https://www.startech.com.bd/zte-tablet"
+        },
+        {
+          "name": "Motorola",
+          "url": "https://www.startech.com.bd/motorola-tablet"
+        },
+        {
+          "name": "Infinix",
+          "url": "https://www.startech.com.bd/infinix-tablet"
+        },
+        {
+          "name": "RIRO",
+          "url": "https://www.startech.com.bd/riro-tablet"
+        },
+        {
+          "name": "reMarkable",
+          "url": "https://www.startech.com.bd/remarkable-tablet"
+        },
+        {
+          "name": "Stylus Pen",
+          "url": "https://www.startech.com.bd/tablet-pc/stylus"
+        }
+      ],
+      "filters": [
+        {
+          "name": "Availability",
+          "items": [
+            "In Stock",
+            "Pre Order",
+            "Up Coming"
+          ]
+        },
+        {
+          "name": "Brand",
+          "items": [
+            "Apple",
+            "Samsung",
+            "Lenovo",
+            "Xiaomi",
+            "Huawei",
+            "Honor",
+            "Walton",
+            "Huion",
+            "Google",
+            "Amazon",
+            "Teclast",
+            "OnePlus",
+            "Chuwi",
+            "RIRO",
+            "reMarkable"
+          ]
+        },
+        {
+          "name": "Screen Size",
+          "items": [
+            "Up to 6.4 inch",
+            "6.5 to 7.4 inch",
+            "7.5 to 8.4 inch",
+            "8.5 to 9.4 inch",
+            "9.5 to 10.4 inch",
+            "10.5 to 11.4 inch",
+            "11.5 and Above"
+          ]
+        },
+        {
+          "name": "Storage",
+          "items": [
+            "16GB",
+            "32GB",
+            "64GB",
+            "128GB",
+            "256GB",
+            "512GB",
+            "1TB"
+          ]
+        },
+        {
+          "name": "RAM",
+          "items": [
+            "1 GB",
+            "2 GB",
+            "3 GB",
+            "4 GB",
+            "6 GB",
+            "8 GB",
+            "12 GB",
+            "16 GB"
+          ]
+        },
+        {
+          "name": "Operating System",
+          "items": [
+            "Android",
+            "Windows",
+            "iPadOS"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "items": [
+            "Wi-Fi only",
+            "Wi-Fi + Cellular"
+          ]
+        }
+      ]
+    }
+  ]
+}

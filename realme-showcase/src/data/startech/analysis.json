@@ -1,0 +1,467 @@
+{
+  "generated_at": "2026-05-09T10:08:36.279307+00:00",
+  "site_summary": {
+    "sitemap_url_count": 24967,
+    "sitemap_top_level_breakdown": [
+      {
+        "segment": "/accessories",
+        "count": 51
+      },
+      {
+        "segment": "/component",
+        "count": 47
+      },
+      {
+        "segment": "/networking",
+        "count": 18
+      },
+      {
+        "segment": "/Security-Camera",
+        "count": 17
+      },
+      {
+        "segment": "/desktops",
+        "count": 13
+      },
+      {
+        "segment": "/office-equipment",
+        "count": 12
+      },
+      {
+        "segment": "/camera",
+        "count": 12
+      },
+      {
+        "segment": "/laptop-notebook",
+        "count": 7
+      },
+      {
+        "segment": "/software",
+        "count": 7
+      },
+      {
+        "segment": "/server-networking",
+        "count": 7
+      },
+      {
+        "segment": "/",
+        "count": 6
+      },
+      {
+        "segment": "/tablet-pc",
+        "count": 4
+      },
+      {
+        "segment": "/gadget",
+        "count": 3
+      },
+      {
+        "segment": "/gaming",
+        "count": 2
+      },
+      {
+        "segment": "/special-pc",
+        "count": 1
+      },
+      {
+        "segment": "/intel-pc",
+        "count": 1
+      },
+      {
+        "segment": "/ryzen-pc",
+        "count": 1
+      },
+      {
+        "segment": "/msi-brand-pc",
+        "count": 1
+      },
+      {
+        "segment": "/gigabyte-brand-pc",
+        "count": 1
+      },
+      {
+        "segment": "/dell-all-in-one-pc",
+        "count": 1
+      }
+    ],
+    "robots_disallow_rules": [
+      "/*?product_id=",
+      "/*?component_id=",
+      "/*?product_set_id=",
+      "/*?category_id=",
+      "/*?pc_id=",
+      "/*?tracking=",
+      "/*?offer_id=",
+      "/*?&tag=",
+      "/product/search?*"
+    ]
+  },
+  "catalog_summary": {
+    "total_products": 20763,
+    "root_category_count": 18,
+    "discounted_product_count": 9065,
+    "price_summary": {
+      "count": 10345,
+      "min": 90,
+      "max": 2350000,
+      "average": 38754.19,
+      "median": 8500
+    }
+  },
+  "root_category_breakdown": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "products": 5490,
+      "pages": 275
+    },
+    {
+      "name": "Component",
+      "slug": "component",
+      "products": 4289,
+      "pages": 215
+    },
+    {
+      "name": "Gadget",
+      "slug": "gadget",
+      "products": 2231,
+      "pages": 112
+    },
+    {
+      "name": "Office Equipment",
+      "slug": "office-equipment",
+      "products": 2080,
+      "pages": 104
+    },
+    {
+      "name": "Networking",
+      "slug": "networking",
+      "products": 1582,
+      "pages": 80
+    },
+    {
+      "name": "Gaming",
+      "slug": "gaming",
+      "products": 1417,
+      "pages": 71
+    },
+    {
+      "name": "Security",
+      "slug": "Security-Camera",
+      "products": 1025,
+      "pages": 52
+    },
+    {
+      "name": "Appliance",
+      "slug": "appliance",
+      "products": 970,
+      "pages": 49
+    },
+    {
+      "name": "Monitor",
+      "slug": "monitor",
+      "products": 781,
+      "pages": 40
+    },
+    {
+      "name": "Laptop",
+      "slug": "laptop-notebook",
+      "products": 408,
+      "pages": 21
+    },
+    {
+      "name": "Server & Storage",
+      "slug": "server-networking",
+      "products": 286,
+      "pages": 15
+    },
+    {
+      "name": "TV",
+      "slug": "television-shop",
+      "products": 277,
+      "pages": 14
+    },
+    {
+      "name": "Power",
+      "slug": "power",
+      "products": 259,
+      "pages": 13
+    },
+    {
+      "name": "Phone",
+      "slug": "mobile-phone",
+      "products": 251,
+      "pages": 13
+    },
+    {
+      "name": "Camera",
+      "slug": "camera",
+      "products": 218,
+      "pages": 11
+    },
+    {
+      "name": "Desktop",
+      "slug": "desktops",
+      "products": 140,
+      "pages": 7
+    },
+    {
+      "name": "Tablet",
+      "slug": "tablet-pc",
+      "products": 111,
+      "pages": 6
+    },
+    {
+      "name": "Software",
+      "slug": "software",
+      "products": 91,
+      "pages": 5
+    }
+  ],
+  "price_bands": [
+    {
+      "label": "Under 1k",
+      "min": 0,
+      "max": 999,
+      "count": 992
+    },
+    {
+      "label": "1k-5k",
+      "min": 1000,
+      "max": 4999,
+      "count": 3119
+    },
+    {
+      "label": "5k-10k",
+      "min": 5000,
+      "max": 9999,
+      "count": 1401
+    },
+    {
+      "label": "10k-25k",
+      "min": 10000,
+      "max": 24999,
+      "count": 1853
+    },
+    {
+      "label": "25k-50k",
+      "min": 25000,
+      "max": 49999,
+      "count": 1152
+    },
+    {
+      "label": "50k-100k",
+      "min": 50000,
+      "max": 99999,
+      "count": 880
+    },
+    {
+      "label": "100k+",
+      "min": 100000,
+      "max": null,
+      "count": 948
+    }
+  ],
+  "top_deals": [
+    {
+      "name": "Samsung HW-Q990F Q-Series 11.1.4 ch Soundbar with Subwoofer & Rear Speaker",
+      "slug": "samsung-hw-q990f-q-series-soundbar",
+      "url": "https://www.startech.com.bd/samsung-hw-q990f-q-series-soundbar",
+      "current_price_text": "Out Of Stock",
+      "old_price_text": null,
+      "save_text": "Save: 1,276,000৳",
+      "save_value": 1276000,
+      "root_category": "Accessories"
+    },
+    {
+      "name": "Sony Bravia 5 K-98XR50 98\" 4K Mini LED Smart Google TV",
+      "slug": "sony-bravia-5-k-98xr50-tv",
+      "url": "https://www.startech.com.bd/sony-bravia-5-k-98xr50-tv",
+      "current_price_text": "1,158,000৳",
+      "old_price_text": "1,620,900৳",
+      "save_text": "Save: 462,900৳",
+      "save_value": 462900,
+      "root_category": "TV"
+    },
+    {
+      "name": "Optoma ProScene FHDC135 All-in-One 135\" Direct View LED Display",
+      "slug": "optoma-proscene-fhdc135-all-in-one-display",
+      "url": "https://www.startech.com.bd/optoma-proscene-fhdc135-all-in-one-display",
+      "current_price_text": "Up Coming",
+      "old_price_text": null,
+      "save_text": "-448,000৳ Discount on Checkout",
+      "save_value": 448000,
+      "root_category": "Office Equipment"
+    },
+    {
+      "name": "NVIDIA H200 NVL PCIE 141GB HBM3e Graphics Card",
+      "slug": "nvidia-h200-nvl-graphics-card",
+      "url": "https://www.startech.com.bd/nvidia-h200-nvl-graphics-card",
+      "current_price_text": "Pre Order",
+      "old_price_text": null,
+      "save_text": "Save: 409,000৳",
+      "save_value": 409000,
+      "root_category": "Component"
+    },
+    {
+      "name": "Sony Bravia 9 K-85XR90 85\" 4K Mini LED QLED HDR Google TV",
+      "slug": "sony-bravia-9-k-85xr90-4k-qled-google-tv",
+      "url": "https://www.startech.com.bd/sony-bravia-9-k-85xr90-4k-qled-google-tv",
+      "current_price_text": "898,000৳",
+      "old_price_text": "1,233,900৳",
+      "save_text": "Save: 335,900৳",
+      "save_value": 335900,
+      "root_category": "TV"
+    },
+    {
+      "name": "MSI GeForce RTX 5090 32G GAMING TRIO OC 32GB GDDR7 Graphics Card",
+      "slug": "msi-geforce-rtx-5090-32g-gaming-trio-oc-graphics-card",
+      "url": "https://www.startech.com.bd/msi-geforce-rtx-5090-32g-gaming-trio-oc-graphics-card",
+      "current_price_text": "495,000৳",
+      "old_price_text": "795,000৳",
+      "save_text": "Save: 300,000৳",
+      "save_value": 300000,
+      "root_category": "Component"
+    },
+    {
+      "name": "Sony Bravia 5 K-85XR50 85\" 4K Mini LED Smart Google TV",
+      "slug": "sony-bravia-5-k-85xr50-tv",
+      "url": "https://www.startech.com.bd/sony-bravia-5-k-85xr50-tv",
+      "current_price_text": "498,000৳",
+      "old_price_text": "742,900৳",
+      "save_text": "Save: 244,900৳",
+      "save_value": 244900,
+      "root_category": "TV"
+    },
+    {
+      "name": "Samsung 85QN950F 85\" 8K QLED Vision AI Smart TV",
+      "slug": "samsung-85qn950f-85-inch-smart-tv",
+      "url": "https://www.startech.com.bd/samsung-85qn950f-85-inch-smart-tv",
+      "current_price_text": "950,000৳",
+      "old_price_text": "1,150,000৳",
+      "save_text": "Save: 200,000৳",
+      "save_value": 200000,
+      "root_category": "TV"
+    },
+    {
+      "name": "Sony Bravia 8 K-55XR80M2 55\" QD OLED 4K Smart Google TV",
+      "slug": "sony-bravia-8-k-55xr80m2-tv",
+      "url": "https://www.startech.com.bd/sony-bravia-8-k-55xr80m2-tv",
+      "current_price_text": "388,000৳",
+      "old_price_text": "579,900৳",
+      "save_text": "Save: 191,900৳",
+      "save_value": 191900,
+      "root_category": "TV"
+    },
+    {
+      "name": "Smart SEL-100G25F 100\" 4K Voice Control Android Google TV",
+      "slug": "smart-sel-100g25f-4k-android-google-tv",
+      "url": "https://www.startech.com.bd/smart-sel-100g25f-4k-android-google-tv",
+      "current_price_text": "449,000৳",
+      "old_price_text": "611,900৳",
+      "save_text": "Save: 162,900৳",
+      "save_value": 162900,
+      "root_category": "TV"
+    },
+    {
+      "name": "Sony Bravia 7 K-75XR70 75 Inch 4K HDR QLED Google TV",
+      "slug": "sony-bravia-7-k-75xr70-75-inch-4k-qled-google-tv",
+      "url": "https://www.startech.com.bd/sony-bravia-7-k-75xr70-75-inch-4k-qled-google-tv",
+      "current_price_text": "468,000৳",
+      "old_price_text": "625,900৳",
+      "save_text": "Save: 157,900৳",
+      "save_value": 157900,
+      "root_category": "TV"
+    },
+    {
+      "name": "Samsung 98DU9000 98\" 4K Smart LED TV",
+      "slug": "samsung-98du9000-98-inch-tv",
+      "url": "https://www.startech.com.bd/samsung-98du9000-98-inch-tv",
+      "current_price_text": "545,000৳",
+      "old_price_text": "700,000৳",
+      "save_text": "Save: 155,000৳",
+      "save_value": 155000,
+      "root_category": "TV"
+    },
+    {
+      "name": "Sony Bravia 5 K-75XR50 75\" 4K Mini LED Smart Google TV",
+      "slug": "sony-bravia-5-k-75xr50-tv",
+      "url": "https://www.startech.com.bd/sony-bravia-5-k-75xr50-tv",
+      "current_price_text": "388,000৳",
+      "old_price_text": "540,900৳",
+      "save_text": "Save: 152,900৳",
+      "save_value": 152900,
+      "root_category": "TV"
+    },
+    {
+      "name": "Samsung 85QN900D 85\" Neo QLED 8K Smart TV",
+      "slug": "samsung-85qn900d-8k-smart-tv",
+      "url": "https://www.startech.com.bd/samsung-85qn900d-8k-smart-tv",
+      "current_price_text": "948,000৳",
+      "old_price_text": "1,100,000৳",
+      "save_text": "Save: 152,000৳",
+      "save_value": 152000,
+      "root_category": "TV"
+    },
+    {
+      "name": "NVIDIA A100 80GB PCIe SXM Graphics Card",
+      "slug": "nvidia-a100-80gb-graphics-card",
+      "url": "https://www.startech.com.bd/nvidia-a100-80gb-graphics-card",
+      "current_price_text": "Pre Order",
+      "old_price_text": null,
+      "save_text": "Save: 150,000৳",
+      "save_value": 150000,
+      "root_category": "Component"
+    },
+    {
+      "name": "Sony Bravia 3 K-85S30 85 Inch 4K UHD Google TV",
+      "slug": "sony-bravia-3-k-85s30-85-inch-4k-google-tv",
+      "url": "https://www.startech.com.bd/sony-bravia-3-k-85s30-85-inch-4k-google-tv",
+      "current_price_text": "338,000৳",
+      "old_price_text": "480,000৳",
+      "save_text": "Save: 142,000৳",
+      "save_value": 142000,
+      "root_category": "TV"
+    },
+    {
+      "name": "DJI Matrice 4E",
+      "slug": "dji-matrice-4e",
+      "url": "https://www.startech.com.bd/dji-matrice-4e",
+      "current_price_text": "860,000৳",
+      "old_price_text": "1,000,000৳",
+      "save_text": "Save: 140,000৳",
+      "save_value": 140000,
+      "root_category": "Gadget"
+    },
+    {
+      "name": "JVC GY-HC900C20 2/3\" HD Connected Camcorder",
+      "slug": "jvc-gy-hc900c20-camcorder",
+      "url": "https://www.startech.com.bd/jvc-gy-hc900c20-camcorder",
+      "current_price_text": "1,510,000৳",
+      "old_price_text": "1,650,000৳",
+      "save_text": "Save: 140,000৳",
+      "save_value": 140000,
+      "root_category": "Camera"
+    },
+    {
+      "name": "Sony Bravia 5 K-65XR50 65\" 4K Mini LED Smart Google TV",
+      "slug": "sony-bravia-5-k-65xr50-tv",
+      "url": "https://www.startech.com.bd/sony-bravia-5-k-65xr50-tv",
+      "current_price_text": "272,000৳",
+      "old_price_text": "405,900৳",
+      "save_text": "Save: 133,900৳",
+      "save_value": 133900,
+      "root_category": "TV"
+    },
+    {
+      "name": "Sony Bravia KD-85X80L 85 Inch 4K Ultra HD Smart TV",
+      "slug": "sony-bravia-kd-85x80l-85-inch-4k-uhd-smart-tv",
+      "url": "https://www.startech.com.bd/sony-bravia-kd-85x80l-85-inch-4k-uhd-smart-tv",
+      "current_price_text": "Out Of Stock",
+      "old_price_text": null,
+      "save_text": "Save: 127,000৳",
+      "save_value": 127000,
+      "root_category": "TV"
+    }
+  ]
+}
