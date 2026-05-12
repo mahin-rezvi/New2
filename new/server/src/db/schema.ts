@@ -1,4 +1,3 @@
-import { sql } from "drizzle-orm";
 import { integer, real, sqliteTable, text, primaryKey } from "drizzle-orm/sqlite-core";
 
 export const categories = sqliteTable("categories", {
