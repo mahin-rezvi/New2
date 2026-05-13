@@ -1,9 +1,11 @@
+import { useQueryClient } from "@tanstack/react-query";
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { authClient } from "@/lib/auth-client";
+import { register } from "@/lib/auth-client";
 
 export function RegisterPage() {
   const nav = useNavigate();
+  const qc = useQueryClient();
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -14,13 +16,15 @@ export function RegisterPage() {
     e.preventDefault();
     setError(null);
     setLoading(true);
-    const res = await authClient.signUp.email({ name, email, password });
-    setLoading(false);
-    if (res.error) {
-      setError(res.error.message ?? "Could not register");
-      return;
+    try {
+      await register(name, email, password);
+      await qc.invalidateQueries({ queryKey: ["session"] });
+      nav("/account");
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Could not register");
+    } finally {
+      setLoading(false);
     }
-    nav("/account");
   }
 
   return (

@@ -1,9 +1,11 @@
+import { useQueryClient } from "@tanstack/react-query";
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { authClient } from "@/lib/auth-client";
+import { login } from "@/lib/auth-client";
 
 export function LoginPage() {
   const nav = useNavigate();
+  const qc = useQueryClient();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState<string | null>(null);
@@ -13,13 +15,15 @@ export function LoginPage() {
     e.preventDefault();
     setError(null);
     setLoading(true);
-    const res = await authClient.signIn.email({ email, password });
-    setLoading(false);
-    if (res.error) {
-      setError(res.error.message ?? "Could not sign in");
-      return;
+    try {
+      await login(email, password);
+      await qc.invalidateQueries({ queryKey: ["session"] });
+      nav("/account");
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Could not sign in");
+    } finally {
+      setLoading(false);
     }
-    nav("/account");
   }
 
   return (

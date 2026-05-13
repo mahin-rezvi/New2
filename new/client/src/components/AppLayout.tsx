@@ -1,7 +1,7 @@
 import { Link, NavLink, Outlet } from "react-router-dom";
-import { useQuery } from "@tanstack/react-query";
+import { useQuery, useQueryClient } from "@tanstack/react-query";
 import { fetchCart } from "@/lib/api";
-import { authClient, useAuthSession } from "@/lib/auth-client";
+import { logout, useAuthSession } from "@/lib/auth-client";
 
 const nav = [
   { to: "/", label: "Home" },
@@ -10,6 +10,7 @@ const nav = [
 
 export function AppLayout() {
   const session = useAuthSession();
+  const qc = useQueryClient();
   const cart = useQuery({ queryKey: ["cart"], queryFn: fetchCart });
 
   const count = cart.data?.lines.reduce((n, l) => n + l.quantity, 0) ?? 0;
@@ -52,6 +53,12 @@ export function AppLayout() {
                   {count > 99 ? "99+" : count}
                 </span>
               ) : null}
+            </Link>
+            <Link
+              to="/admin"
+              className="rounded-lg px-3 py-2 text-zinc-500 hover:bg-white/5 hover:text-white"
+            >
+              Admin
             </Link>
             {session.data?.user ? (
               <NavLink
@@ -124,13 +131,10 @@ export function AppLayout() {
               type="button"
               className="underline-offset-2 hover:underline"
               onClick={() => {
-                void authClient.signOut({
-                  fetchOptions: {
-                    onSuccess: () => {
-                      void session.refetch();
-                    },
-                  },
-                });
+                void (async () => {
+                  await logout();
+                  await qc.invalidateQueries({ queryKey: ["session"] });
+                })();
               }}
             >
               Sign out

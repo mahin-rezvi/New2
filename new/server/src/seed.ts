@@ -1,6 +1,6 @@
-import { count } from "drizzle-orm";
-import { db, sqlite } from "./db/index.js";
-import { cartItems, carts, categories, orderItems, orders, products } from "./db/schema.js";
+import { getRedis } from "./redis-client.js";
+import * as store from "./redis-store.js";
+import type { StoredProduct } from "./types.js";
 
 function img(slug: string) {
   return `https://picsum.photos/seed/${encodeURIComponent(slug)}/800/800`;
@@ -215,21 +215,23 @@ const productDefs: {
 ];
 
 async function main() {
-  sqlite.exec("PRAGMA foreign_keys = OFF");
-  await db.delete(orderItems);
-  await db.delete(orders);
-  await db.delete(cartItems);
-  await db.delete(carts);
-  await db.delete(products);
-  await db.delete(categories);
-  sqlite.exec("PRAGMA foreign_keys = ON");
+  await getRedis();
+  const existing = await store.exportAll();
+  for (const p of existing.products) await store.deleteProduct(p.id);
+  for (const c of existing.categories) {
+    const r = await store.deleteCategory(c.id);
+    if (!r.ok) console.warn(`Category ${c.id}: ${r.reason}`);
+  }
 
-  await db.insert(categories).values(catRows.map((c) => ({ id: c.id, slug: c.slug, name: c.name })));
+  for (const c of catRows) {
+    await store.saveCategory({ id: c.id, slug: c.slug, name: c.name });
+  }
 
+  const now = Date.now();
   for (const p of productDefs) {
-    const cat = catRows.find((c) => c.slug === p.category);
+    const cat = catRows.find((x) => x.slug === p.category);
     if (!cat) throw new Error(`Missing category ${p.category}`);
-    await db.insert(products).values({
+    const row: StoredProduct = {
       id: p.id,
       slug: p.slug,
       categoryId: cat.id,
@@ -239,17 +241,19 @@ async function main() {
       compareAtCents: p.compareAtCents ?? null,
       currency: "BDT",
       imageUrl: img(p.slug),
-      badgesJson: JSON.stringify(p.badges),
+      badges: p.badges,
       stock: p.stock,
       rating: p.rating,
       reviewCount: p.reviewCount,
       featuredNew: p.featuredNew ?? false,
       featuredBest: p.featuredBest ?? false,
-    });
+      createdAt: now,
+    };
+    await store.saveProduct(row);
   }
 
-  const [{ n }] = await db.select({ n: count() }).from(products);
-  console.log(`Seeded ${n} products and ${catRows.length} categories.`);
+  const after = await store.exportAll();
+  console.log(`Seeded ${after.products.length} products and ${after.categories.length} categories.`);
 }
 
 main().catch((e) => {
